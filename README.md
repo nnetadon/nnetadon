@@ -1,7 +1,7 @@
 <h2 align="center">🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊</h2>
 
-<a align="center" href="https://ariaf.my.id">
-  <img src="https://raw.githubusercontent.com/ariafatah0711/ariafatah0711/main/asset/1.gif" align="right" width="280"/>
+<a align="center" href="#">
+  <img src="https://media.tenor.com/qPt7ljmrAUgAAAAM/rezero-season-3-rezero-s3.gif" align="right" width="280"/>
 </a>
 
 - **Name:** Kirill  
@@ -13,7 +13,7 @@
 <h2 align="center">📇 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 📇</h2>
 
 <a align="center" href="#">
-  <img src="https://raw.githubusercontent.com/ariafatah0711/ariafatah0711/main/asset/2.gif" align="right" width="280"/>
+  <img src="https://media.tenor.com/kHFATmtrD2YAAAAM/regulus-corneas.gif" align="right" width="280"/>
 </a>
 
 
@@ -39,7 +39,7 @@
 <h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 
 <a align="center" href="#">
-  <img src="https://raw.githubusercontent.com/ariafatah0711/ariafatah0711/main/asset/3.gif" align="right" width="280"/>
+  <img src="https://media.tenor.com/edpC7x_JoWQAAAAM/rezero-echidna.gif" align="right" width="280"/>
 </a>
 
 <p align="center">Feel free to reach out or stalk me online 😎💌</p>
