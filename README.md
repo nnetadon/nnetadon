@@ -39,7 +39,7 @@
 <h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 
 <a align="center" href="#">
-  <img src="https://github.com/nnetadon/nnetadon/blob/main/gif/rezero-echidna.gifh" align="right" width="280"/>
+  <img src="https://github.com/nnetadon/nnetadon/blob/main/gif/rezero-echidna.gif" align="right" width="280"/>
 </a>
 
 <p align="center">Feel free to reach out or stalk me online 😎💌</p>
