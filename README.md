@@ -42,7 +42,7 @@
 
 <p align="center">Feel free to reach out or stalk me online 😎💌</p>
 
-- [![Link](https://img.shields.io/badge/Web%20-%23ea4aaa?style=for-the-badge&logo=firefox&logoColor=white)](https://ariaf.my.id) 
+- [![Link](https://img.shields.io/badge/Web%20-%23ea4aaa?style=for-the-badge&logo=firefox&logoColor=white)](https://yoopi2005.ru/) 
 
 
-  [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RAPIDAXIS)  [![Link](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](ваша_ссылка_на_discord)
+  [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RAPIDAXIS)  [![Link](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/735930994447614064)
