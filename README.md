@@ -45,4 +45,4 @@
 - [![Link](https://img.shields.io/badge/Web%20-%23ea4aaa?style=for-the-badge&logo=firefox&logoColor=white)](https://ariaf.my.id) [![Link](https://img.shields.io/badge/GitHub%20-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariafatah0711) [![Link](https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariafatah) 
 - [![Link](https://img.shields.io/badge/Instagram%20-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariaf.my.id) [![Link](https://img.shields.io/badge/WhatsApp%20-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289509221496)
 
-  [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](ссылка_на_ваш_телеграм)
+  [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RAPIDAXIS)
